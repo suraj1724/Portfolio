@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Shpping Website",
+        "image":"./shopping_web.jpg",
+        "links":{
+            "view":"https://suraj1724.github.io/Shoppy/",
+            "code":"https://github.com/suraj1724/Shoppy"
+        }
+    },
+    {
+        "name":"Santa Page Design",
+        "image":"./santa.jpg",
+        "links":{
+            "view":" https://suraj1724.github.io/santa-page/",
+            "code":"https://github.com/suraj1724/santa-page"
+        }
+    },
+    {
+        "name":"EMI Calculator",
+        "image":"./emi.jpg",
+        "links":{
+            "view":" https://suraj1724.github.io/EMI-Calculator/",
+            "code":"https://github.com/suraj1724/EMI-Calculator"
+        }
+    }
+] 
